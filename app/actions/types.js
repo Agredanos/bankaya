@@ -1,0 +1,1 @@
+export const SET_PRINCIPAL = "SET_PRINCIPAL"
